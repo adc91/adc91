@@ -1,19 +1,25 @@
-
-# 👋 Hola, Soy Ángel Camacho
+# 👋 Hola, Soy Angel Camacho
 
 ### 🚀 Full Stack Engineer | Tech Lead | Especialista Frontend
 
-Ingeniero de Software con más de 12 años de experiencia, especializado en el desarrollo frontend, backend y móvil. Apasionado por crear soluciones tecnológicas innovadoras.
+Soy un Ingeniero de Software Full Stack con más de 12 años de experiencia, con un fuerte enfoque en desarrollo frontend y un dominio de JavaScript, React, HTML5, CSS3 y Git. Especializado también en PHP y MySQL, experto en el diseño y desarrollo de APIs RESTful, soluciones web escalables y gestión de infraestructuras (DevOps). Competente en Node.js, React Native, Docker y AWS, con experiencia en TypeScript y Python.
 
-## Tecnologías Principales
+📧 [adc.3191@gmail.com](mailto:adc.3191@gmail.com)  
+📍 Paraguay  
+🔗 [LinkedIn](https://linkedin.com/in/adc91)
+
+## 🛠️ Tecnologías Principales
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -29,14 +35,23 @@ Ingeniero de Software con más de 12 años de experiencia, especializado en el d
 **DevOps:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+## 📌 Experiencia Laboral
+
+- **New Age Systems** | *Full Stack Engineer* _(Abr 2024 - Actualidad)_
+- **BLAST Bilingual** | *Full Stack Engineer* _(Nov 2023 - Abr 2024)_
+- **C1DO1** | *Full Stack Engineer* _(Oct 2022 - Oct 2023)_
+- **TEIXIDÓ** | *Full Stack Engineer & Tech Lead* _(May 2013 - Sep 2022)_
+- **Latamclick** | *Web Developer* _(Dic 2012 - May 2013)_
 
 ## 📈 Estadísticas en GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adc91&show_icons=true&theme=radical)
 
-## 🌐 Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/adc91)
-
 ## 📫 Contacto
 
+Estoy siempre abierto a nuevos proyectos y oportunidades de colaboración. ¡Si tienes una idea interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme!
+
 📧 [adc.3191@gmail.com](mailto:adc.3191@gmail.com) | 📞 +595971746382
+
