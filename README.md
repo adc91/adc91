@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Engineer | Tech Lead | Especialista Frontend
 
-Soy un Ingeniero de Software Full Stack con más de 12 años de experiencia, con un fuerte enfoque en desarrollo frontend y un dominio de JavaScript, React, HTML5, CSS3 y Git. Especializado también en PHP y MySQL, experto en el diseño y desarrollo de APIs RESTful, soluciones web escalables y gestión de infraestructuras (DevOps). Competente en Node.js, React Native, Docker y AWS, con experiencia en TypeScript y Python.
+Soy un Ingeniero de Software Full Stack con más de 12 años de experiencia, con un fuerte enfoque en desarrollo frontend y un dominio de JavaScript, React, Redux, ContextAPI, TypeScript, HTML5, CSS3 y Git. Especializado también en PHP y MySQL, experto en el diseño y desarrollo de APIs RESTful, soluciones web escalables y gestión de infraestructuras (DevOps). Competente en Node.js, React Native, Docker, AWS, Azure y con experiencia en Python.
 
 📧 [adc.3191@gmail.com](mailto:adc.3191@gmail.com)  
 📍 Paraguay  
