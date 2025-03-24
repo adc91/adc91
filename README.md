@@ -39,11 +39,11 @@ Soy un Ingeniero de Software Full Stack con más de 12 años de experiencia, con
 
 ## 📌 Experiencia Laboral
 
-- **New Age Systems** | *Full Stack Engineer* _(Abr 2024 - Actualidad)_
-- **BLAST Bilingual** | *Full Stack Engineer* _(Nov 2023 - Abr 2024)_
-- **C1DO1** | *Full Stack Engineer* _(Oct 2022 - Oct 2023)_
-- **TEIXIDÓ** | *Full Stack Engineer & Tech Lead* _(May 2013 - Sep 2022)_
-- **Latamclick** | *Web Developer* _(Dic 2012 - May 2013)_
+- **New Age Systems** | *Full Stack Engineer* _(Abr 2024 - Actualidad) - Paraguay_
+- **BLAST Bilingual** | *Full Stack Engineer* _(Nov 2023 - Abr 2024) - Freelancer - USA_
+- **C1DO1** | *Full Stack Engineer* _(Oct 2022 - Oct 2023) - Chile_
+- **TEIXIDÓ** | *Full Stack Engineer & Tech Lead* _(May 2013 - Sep 2022) - Paraguay_
+- **Latamclick** | *Web Developer* _(Dic 2012 - May 2013) - Paraguay_
 
 ## 📈 Estadísticas en GitHub
 
