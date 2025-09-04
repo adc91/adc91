@@ -46,13 +46,13 @@ Soy un Ingeniero de Software Full Stack con más de 12 años de experiencia, con
 - **TEIXIDÓ** | *Full Stack Engineer & Tech Lead* _(May 2013 - Sep 2022) - Paraguay_
 - **Latamclick** | *Web Developer* _(Dic 2012 - May 2013) - Paraguay_
 
-## 📈 Estadísticas en GitHub
+## 🔎 Saber más sobre mí
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adc91&show_icons=true&theme=radical)
+Si quieres conocer más acerca de mi experiencia, trayectoria y proyectos, visita mi web personal:  
+🌐 [angelcamacho.dev](https://angelcamacho.dev)
 
 ## 📫 Contacto
 
 Estoy siempre abierto a nuevos proyectos y oportunidades de colaboración. ¡Si tienes una idea interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme!
 
-📧 [adc.3191@gmail.com](mailto:adc.3191@gmail.com) | 📞 +595971746382
-
+📧 [adc.3191@gmail.com](mailto:adc.3191@gmail.com)
