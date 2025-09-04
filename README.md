@@ -4,9 +4,10 @@
 
 Soy un Ingeniero de Software Full Stack con más de 12 años de experiencia, con un fuerte enfoque en desarrollo frontend y un dominio de JavaScript, React, Redux, ContextAPI, TypeScript, HTML5, CSS3 y Git. Especializado también en PHP y MySQL, experto en el diseño y desarrollo de APIs RESTful, soluciones web escalables y gestión de infraestructuras (DevOps). Competente en Node.js, React Native, Docker, AWS, Azure y con experiencia en Python.
 
-📧 [adc.3191@gmail.com](mailto:adc.3191@gmail.com)  
-📍 Paraguay  
-🔗 [LinkedIn](https://linkedin.com/in/adc91)
+[![Email](https://img.shields.io/badge/Email-adc.3191%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adc.3191@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adc91)
+[![Website](https://img.shields.io/badge/Web-angelcamacho.dev-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://angelcamacho.dev)
+![Location](https://img.shields.io/badge/Paraguay-📍-blue?style=for-the-badge)
 
 ## 🛠️ Tecnologías Principales
 
